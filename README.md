@@ -1,4 +1,4 @@
-# First Game (proyecto básico)
+# Demo-Game-Unity (proyecto básico)
 
 Descripción
 
@@ -27,11 +27,3 @@ Controles (ejemplo)
 Contribuir
 
 Si quieres mejorar el proyecto, crea una rama y abre un pull request con una descripción clara de los cambios. Pequeñas mejoras, corrección de bugs o explicaciones en código son bienvenidas.
-
-Licencia
-
-Este proyecto puede compartirse bajo licencia MIT. Si prefieres otra licencia, indícalo en un archivo LICENSE.
-
-Contacto
-
-Para dudas o información adicional, crea un issue en este repositorio.
